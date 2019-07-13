@@ -1,0 +1,5 @@
+.vscode/
+objs/*
+doom-nukem
+audio_tmp/
+.DS_Store
