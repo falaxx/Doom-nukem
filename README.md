@@ -35,6 +35,8 @@ seeing a front, side or back character.
 
 - It's possible to run, jump, fall, bend down and get up. 
 
+![](gameplay2.gif)
+
 - Fly-mode.
 
 - Multitreading
