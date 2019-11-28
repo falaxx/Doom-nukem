@@ -4,15 +4,15 @@ A mix of Doom and Duke Nukem 3D
 ## Description
 This is the real deal, after the validation of Wolf3D this is the final project of the graphic course at 42.
 
+![](gameplay.gif)
+
 In this project we created with 3 other 42 students a realistic 3D graphic representation that we would have from a subjective view within our universe, a First Person Shooter.
 
 We had to use the Ray-Casting method for this representation without hardware acceleration and 3D library.
 
-![](gameplay.gif)
+![](gameplay2.gif)
 
 ## Features :
-
-![](gameplay2.gif)
 
 - The spaces must have any shape, rooms with a different number of
 walls, with several orientations.
