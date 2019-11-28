@@ -66,6 +66,8 @@ Level Editor:
 You need to install sdl2, sdl2_ttf and sdl2_mixer with brew or apt-get 
 ```
 brew sdl2
+brew sdl2_ttf
+brew sdl2_mixer
 ```
 Then simply
 ```
