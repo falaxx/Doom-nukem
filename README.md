@@ -12,6 +12,8 @@ We had to use the Ray-Casting method for this representation without hardware ac
 
 ## Features :
 
+![](gameplay2.gif)
+
 - The spaces must have any shape, rooms with a different number of
 walls, with several orientations.
 
@@ -34,8 +36,6 @@ seeing a front, side or back character.
 - HUD.
 
 - It's possible to run, jump, fall, bend down and get up. 
-
-![](gameplay2.gif)
 
 - Fly-mode.
 
