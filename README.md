@@ -59,8 +59,6 @@ Level Editor:
 
 - Texture editing.
 
-![](wallmaterial.gif)
-
 ![](texturechange.gif)
 
 ## Installation 
