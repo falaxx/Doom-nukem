@@ -65,11 +65,9 @@ Level Editor:
 
 ![](texturechange.gif)
 
-- Objects editing.
-
 ## Installation 
 
-You need to install sdl2 
+You need to install sdl2, sdl2_ttf and sdl2_mixer with brew or apt-get 
 ```
 brew sdl2
 ```
