@@ -79,6 +79,9 @@ make
 ```
 ./duke-nukem yourlevel 
 ```
+
+If you make your own level you can save it by pressing "z"
+
 Our level is nyam_nukem
 ```
 ./duke-nukem nyam_nukem 
