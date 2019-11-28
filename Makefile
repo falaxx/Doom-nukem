@@ -3,10 +3,10 @@ LIBFT_DIR = lib/libft
 LIBTGA_DIR = lib/libtga
 LIBVEC_DIR = lib/libvec
 ifeq ($(shell uname -s), Darwin)
-	SDL2_DIR = $(HOME)/.brew/Cellar/sdl2/2.0.9_1/lib/
-	SDL2_INC_DIR = $(HOME)/.brew/Cellar/sdl2/2.0.9_1/include/
-	SDL2_TTF_DIR = $(HOME)/.brew/Cellar/sdl2_ttf/2.0.14/lib/
-	SDL2_TTF_INC_DIR = $(HOME)/.brew/Cellar/sdl2_ttf/2.0.14/include/
+	SDL2_DIR = $(HOME)/.brew/Cellar/sdl2/2.0.10/lib/
+	SDL2_INC_DIR = $(HOME)/.brew/Cellar/sdl2/2.0.10/include/
+	SDL2_TTF_DIR = $(HOME)/.brew/Cellar/sdl2_ttf/2.0.15/lib/
+	SDL2_TTF_INC_DIR = $(HOME)/.brew/Cellar/sdl2_ttf/2.0.15/include/
 	SDL2_MIXER_DIR = $(HOME)/.brew/Cellar/sdl2_mixer/2.0.4/lib/
 	SDL2_MIXER_INC_DIR = $(HOME)/.brew/Cellar/sdl2_mixer/2.0.4/include/
 else
