@@ -53,11 +53,9 @@ seeing a front, side or back character.
 
 Level Editor:
 
-![](editorportal.gif)
-
 - Editing spaces (walls, floors, ceilings).
 
-![](editorsol.gif)
+![](editorportal.gif)
 
 - Texture editing.
 
